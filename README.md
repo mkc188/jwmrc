@@ -1,0 +1,4 @@
+jwmrc
+=====
+
+JWM Configuration
